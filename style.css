@@ -1,7 +1,8 @@
 /* -------  General Styles ------- */
 
 body {
-  font-family: "Lato", sans-serif;
+  font-family:'Courier New', Courier, monospace;
+  font-weight: 400;
 }
 
 h2 {
@@ -26,7 +27,7 @@ section {
 }
 
 section.alternate-background {
-  background-color: #00a699;
+  background-color: #284b63;
   color: #fff;
 }
 
@@ -53,7 +54,7 @@ main img {
 /* -------  Navigation ------- */
 
 header {
-  background-color: #ff385c;
+  background-color: #284b63;
   padding: 20px 20px 0 20px;
   text-align: center;
 }
@@ -85,7 +86,7 @@ header nav ul li a:hover {
 
 /* -------  Search Form ------- */
 form {
-  border: 2px solid #ff385c;
+  border: 2px solid #284b63;
   padding: 10px;
 }
 
@@ -100,8 +101,8 @@ form input {
 }
 
 form button {
-  background-color: #ff385c;
-  border: none;
+  background-color: #284b63;
+  
   color: #fff;
   font-size: 24px;
   padding: 15px;
@@ -117,7 +118,7 @@ form button {
 /* -------  Footer ------- */
 
 footer {
-  background-color: #ff385c;
+  background-color: #284b63;
 }
 
 footer p {
